@@ -1,4 +1,4 @@
-# Tool-graphviz
+# Tools-graphviz
 
 [Apio](https://github.com/FPGAwars/apio) package that contains the [Graphvix](https://graphviz.org/) releases. Only for Windows.
 
